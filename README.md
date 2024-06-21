@@ -9,7 +9,7 @@
 - Closure: Lembrar do ambiente que ela foi criada
 - Hoisting(içar): é quando o JS joga pra cima as declarações das variáveis(com var), permitindo que você use as variáveis mesmo declarando elas depois
 
-###Variáveis
+### Variáveis
 
 Variáveis podem ser declaradas de 3 maneiras:
 - let : Variável com um escopo de bloco
